@@ -55,13 +55,13 @@
             </div>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="https://dummyimage.com/600x400/000/fff" class="d-block w-100" alt="Carousel 1" style="max-height: 100vh;">
+                    <img src="https://thumbs.dreamstime.com/b/business-man-using-digital-search-bar-virtual-screen-word-hotel-book-accommodation-online-website-travel-336610170.jpg" class="d-block w-100" alt="Carousel 1" style="max-height: 100vh;">
                 </div>
                 <div class="carousel-item">
-                    <img src="https://dummyimage.com/600x400/000/fff" class="d-block w-100" alt="Carousel 2" style="max-height: 100vh;">
+                    <img src="https://colorlib.com/wp/wp-content/uploads/sites/2/booking-form-template-1.jpg" class="d-block w-100" alt="Carousel 2" style="max-height: 100vh;">
                 </div>
                 <div class="carousel-item">
-                    <img src="https://dummyimage.com/600x400/000/fff" class="d-block w-100" alt="Carousel 3" style="max-height: 100vh;">
+                    <img src="https://stampede.ai/_next/image?url=https%3A%2F%2Fwebsite-backend.stampede.ai%2Fwp-content%2Fuploads%2F2022%2F05%2FSocial-Media-Posts-3-2-1-1024x579.png&w=3840&q=75" class="d-block w-100" alt="Carousel 3" style="max-height: 100vh;">
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carousel" data-bs-slide="prev">
@@ -78,15 +78,14 @@
             <div class="row">
                 <div class="col-md-5">
                     <div class="container">
-                        <img src="https://dummyimage.com/600x400/000/fff" class="d-block w-100" alt="About us">
+                        <img src="https://img.freepik.com/free-photo/air-ticket-flight-booking-concept_53876-122380.jpg" class="d-block w-100" alt="About us">
                     </div>
                 </div>
                 <div class="col-md-7">
                     <p class="text-black-50">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque modi ratione iure magnam reprehenderit quidem eum non vel voluptatibus dolorum quasi aut nobis quo placeat incidunt consequatur doloremque, aliquid at?
-                    </p>
+                        At BookMaster, we specialize in simplifying and streamlining booking management for businesses of all sizes. Whether you’re a hotel, restaurant, event planner, or service provider, we offer a comprehensive suite of tools designed to help you manage your bookings efficiently, reduce no-shows, and enhance the overall customer experience.
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus veritatis voluptatibus sint excepturi qui veniam possimus minus, vitae, porro aliquam voluptas voluptates, harum reiciendis molestias dolore quasi beatae unde quae? Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla voluptas fuga animi, aperiam iure sed cum dicta reprehenderit maiores porro adipisci reiciendis dolores fugit nostrum quidem dolorem vel. Similique, veritatis! Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae tempore eaque voluptatem eveniet repudiandae doloremque debitis asperiores id maxime rerum cupiditate quibusdam, commodi, maiores facere quo amet ut ea mollitia. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores suscipit eligendi, aspernatur numquam tenetur enim inventore reprehenderit voluptas placeat hic magnam accusantium. Atque iure a in eveniet quas cupiditate excepturi?
+                        Founded with a vision to bring modern technology to traditional booking systems, our platform provides intuitive features that allow you to handle reservations, appointments, and scheduling with ease. From real-time availability syncing and automated reminders to integrated payment processing, our solutions are designed to save you time and boost your revenue                    </p>
                     </p>
                 </div>
             </div>
@@ -118,10 +117,9 @@
                 <div class="row">
                     <div class="col-md-4 d-flex align-items-center justify-content-center">
                         <div class="card" style="width: 300px;">
-                            <img class="card-img-top" src="https://dummyimage.com/300x300/000/fff&text=Sample+Image">
+                            <img class="card-img-top" src="https://plus.unsplash.com/premium_photo-1689530775582-83b8abdb5020?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZG9tJTIwcGVyc29ufGVufDB8fDB8fHww">
                             <div class="card-body text-center">
-                                <h4 class="card-title">Team Member 1</h4>
-                                <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+                                <h4 class="card-title">Joe Doe</h4>
                                 <i class="bi bi-facebook icon-sm m-2"></i>
                                 <i class="bi bi-instagram icon-sm m-2"></i>
                                 <i class="bi bi-linkedin icon-sm m-2"></i>
@@ -130,10 +128,9 @@
                     </div>
                     <div class="col-md-4 d-flex align-items-center justify-content-center">
                         <div class="card" style="width: 300px;">
-                            <img class="card-img-top" src="https://dummyimage.com/300x300/000/fff&text=Sample+Image">
+                            <img class="card-img-top" src="https://media.istockphoto.com/id/1466995518/photo/business-woman-and-worker-portrait-at-office-desk-as-administration-executive-company-manager.jpg?s=612x612&w=0&k=20&c=NvKeG6Fh0_VVfH_N0Ka-5j8284XJhL2VTJfe6IwDkWQ=">
                             <div class="card-body text-center">
-                                <h4 class="card-title">Team Member 1</h4>
-                                <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+                                <h4 class="card-title">Alina white</h4>
                                 <i class="bi bi-facebook icon-sm m-2"></i>
                                 <i class="bi bi-instagram icon-sm m-2"></i>
                                 <i class="bi bi-linkedin icon-sm m-2"></i>
@@ -142,10 +139,9 @@
                     </div>
                     <div class="col-md-4 d-flex align-items-center justify-content-center">
                         <div class="card" style="width: 300px;">
-                            <img class="card-img-top" src="https://dummyimage.com/300x300/000/fff&text=Sample+Image">
+                            <img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5feh6-WBnJMJzunv-DXyYf3BUFU5Yexv08g&s">
                             <div class="card-body text-center">
-                                <h4 class="card-title">Team Member 1</h4>
-                                <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+                                <h4 class="card-title">Brown Walkman</h4>
                                 <i class="bi bi-facebook icon-sm m-2"></i>
                                 <i class="bi bi-instagram icon-sm m-2"></i>
                                 <i class="bi bi-linkedin icon-sm m-2"></i>
@@ -157,8 +153,7 @@
         </section>
         <section id="contact" class="container m-4">
             <h6 class="display-5 text-center ">Contact Us</h6>
-            <div class="row">
-                <div class="col-md-6">
+                <div class="align-content-center">
                     <div class="container p-3">
                         <p class="text-muted text-center fs-3">Here's our Contact Info</p>
                         <div class="text-black-s text-center fs-4">Our Email</div>
@@ -169,39 +164,8 @@
                         <div class="text-black-50 text-center fs-5">HSR Layout, Bangalore <br> Karnatake 560 XXX</div>
                     </div>
                 </div>
-                <div class="col-md-6">
-                    <div class="container">
-                        <p class="text-muted text-center fs-3">You can also Write to Us</p>
-                        <div class="container p-3">
-                            <div class="card shadow">
-                                <div class="card-body">
-                                    <form>
-                                        <div class="form-group">
-                                            <label for="name" class="form-label">Enter Your Name</label>
-                                            <input type="text" class="form-control" name="name" id="name">
-                                        </div>
-                                        <div class="form-group">
-                                            <label for="emailid" class="form-label">Enter Your Email</label>
-                                            <input type="email" class="form-control" name="email" id="emailid">
-                                        </div>
-                                        <div class="form-group">
-                                            <label for="subject" class="form-label">Enter the subject</label>
-                                            <input type="text" class="form-control" name="subject" id="subject">
-                                        </div>
-                                        <div class="form-group">
-                                            <label for="message" class="form-label">Enter Your Message</label>
-                                            <textarea class="form-control" name="message" id="message"></textarea>
-                                        </div>
-                                        <div class="form-group text-center">                                               
-                                            <input type="submit" class="btn btn-outline-dark" value="Send Message">
-                                        </div>
-                                    </form>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+              
+          
         </section>
     </main>
     <footer class="bg-dark">
@@ -209,9 +173,10 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="container m-5">
-                        <img src="assets/logo.png" height="30px" class="bg-white">
+                        <img src="assets/images/logo.png" height="30px" class="bg-white">
                         <div>
-                            <p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati nulla maxime, at culpa ipsa aliquam exercitationem deserunt odit incidunt a neque voluptas suscipit maiores quae dolor dolore tenetur corrupti dolorem!</p>
+                            <p class="text-white">
+                                Our mission is to empower businesses to thrive by providing them with an easy-to-use, reliable, and scalable booking management solution. We understand the challenges of managing appointments and reservations, and our goal is to take the hassle out of the process—allowing you to focus on what matters most: delivering exceptional service to your customers.                            </p>
                         </div>
                     </div>
                 </div>

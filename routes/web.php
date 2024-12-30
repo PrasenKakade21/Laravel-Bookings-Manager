@@ -25,14 +25,15 @@ Route::get('page/{name}', [WebPageController::class, 'viewPage'])->name('webpage
 Route::get('/login', [AuthController::class, 'login'])->name('login');
 Route::post('/login', [AuthController::class, 'authenticate'])->name('login.authenticate');
 Route::get('/signup', [AuthController::class, 'signup'])->name('signup');
-Route::post('/signup', [AuthController::class, 'createUser'])->name('signup.authenticate');
+Route::post('/signup', [AuthController::class, 'createUser'])->name('signup.create');
 Route::get('/logout', [AuthController::class, 'logout'])->name('logout');
 
 // dashboard for admin and user - Authenitcated
 
 Route::middleware(['auth'])->group(function () {
     //Dashbaord Routes for Admin
-    Route::get('dashboard/admin', [UserController::class, 'adminDashboard'])->name('dashboard.admin'); //Dashbaord Routes for User
+    Route::get('dashboard/admin', [UserController::class, 'adminDashboard'])->name('dashboard.admin'); 
+    //Dashbaord Routes for User
     Route::get('dashboard/user', [UserController::class, 'userDashboard'])->name('dashboard.user');
     //Booking Related Routes
     Route::get('booking/all', [BookingController::class, 'index'])->name('booking.all');
@@ -44,7 +45,7 @@ Route::middleware(['auth'])->group(function () {
     Route::get('booking/delete/{id}', [BookingController::class, 'viewDelete'])->name('booking.view.delete');
     Route::post('booking/delete/{id}', [BookingController::class, 'delete'])->name('booking.delete');
     //Webpage Releated Routes
-    Route::get('webpage', [webpageController::class, 'index'])->name('webpage.my');
+    Route::get('webpage', [webpageController::class, 'index'])->name('webpage.index');
     Route::get('webpage/add', [webpageController::class, 'add'])->name('webpage.add');
     Route::post('webpage/save', [webpageController::class, 'save'])->name('webpage.save');
     Route::get('webpage/{id}', [webpageController::class, 'edit'])->name('webpage.edit');
@@ -52,7 +53,7 @@ Route::middleware(['auth'])->group(function () {
     Route::get('webpage/delete/{id}', [WebpageController::class, 'viewDelete'])->name('webpage.view.delete');
     Route::post('webpage/delete/{id}', [WebpageController::class, 'delete'])->name('webpage.delete');
     //User Releated Routes
-    Route::get('user', [UserController::class, 'index'])->name('user.my');
+    Route::get('user', [UserController::class, 'index'])->name('user');
     Route::get('user/add', [UserController::class, 'add'])->name('user.add');
     Route::post('user/save', [UserController::class, 'save'])->name('user.save');
     Route::get('user/{id}', [UserController::class, 'edit'])->name('user.edit');
