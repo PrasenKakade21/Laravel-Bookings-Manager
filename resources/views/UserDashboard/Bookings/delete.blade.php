@@ -1,4 +1,4 @@
-@extends('AdminDashboard.Layout.adminBaseView')
+@extends('UserDashboard.Layout.userBaseView')
 @section('dashContent')
 <form action="{{route('booking.delete',['id'=>Request::segment(3)])}}" method="post">
     @csrf
